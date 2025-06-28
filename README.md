@@ -43,5 +43,5 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/function-graph-visualizer.git
+git clone https://github.com/vyachic007/mathGraphPy.git
 cd function-graph-visualizer
